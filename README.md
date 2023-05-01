@@ -1,6 +1,9 @@
 # Cricket_data_analysis
 
-The cricket data analysis consisted of the data of cricket scores for 10 years from 2008-2017. The data consisted of 2 datasets with ensemble informations. Answers to the below mentioned queries have been found through lot of data cleaning, preparation of new columns, creating measures etc.
+The cricket data analysis consisted of the data of cricket scores for 10 years from 2008-2017.
+
+The data consisted of 2 datasets namely 'matches' and 'deliveries', with ensemble informations. Answers to the below mentioned queries have been found through lot of data cleaning, preparation of new columns, creating measures etc.
+
 Power BI has been selected as the tool for the ETL and data analysis.
 
 Please share your queries to mathewdeepak7500@gmail.com
